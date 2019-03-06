@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConvertorX</string>
+    <string name="firstT_name">Lets get started!</string>
+    <string name="secondT_name">Introduce the amount you want to convert and then choose your conversion!</string>
+    <string name="error_name">Please enter a valid number!</string>
+    <string name="colorselect_name">Please choose your desired color to display the app!</string>
+</resources>
